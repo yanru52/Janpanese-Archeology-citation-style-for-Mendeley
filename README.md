@@ -9,3 +9,6 @@
 　　https://csl.mendeley.com/styles/556424611/janpanese-archeology-2<br/>
 ５．"Installed"タブに戻り、"Janpanese Archeology verXX"がダウンロードされ、さらに選択されたことを確認する<br/>
 ６．"Done"ボタンを押して終了。<br/>
+
+
+※このcitation styleはDavid Kaplan氏が作成したEcology Lettersのためのスタイルを元にアレンジしたもの
